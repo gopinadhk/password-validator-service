@@ -1,0 +1,3 @@
+com\service\passwordservice\rule\PasswordValidatorServiceTest.class
+com\service\passwordservice\PasswordServiceApplicationTests.class
+com\service\passwordservice\rest\PasswordRestControllerTest.class
